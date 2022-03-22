@@ -1,1 +1,1 @@
-My first readme
+this repository is for ALX SE
